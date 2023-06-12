@@ -5,32 +5,26 @@ const DUMMY_PRODUCTS = [
   {
     id: 'p1',
     price: 6,
-    title: 'My First Book',
-    description: 'The first book I ever wrote',
+    title: 'White Apple',
+    description: "As we are always intrigued by customers' needs and passions, and through our journey to deliver excellence and uniqueness",
   },
   {
     id: 'p2',
     price: 5,
-    title: 'My Second Book',
-    description: 'The second book I ever wrote',
+    title: 'Banana',
+    description: "As we are always intrigued by customers' needs and passions, and through our journey to deliver excellence and uniqueness",
   },
   {
     id: 'p3',
     price: 6,
-    title: 'My Second Book',
-    description: 'The second book I ever wrote',
+    title: 'Orange',
+    description: "As we are always intrigued by customers' needs and passions, and through our journey to deliver excellence and uniqueness",
   },
   {
     id: 'p4',
     price: 10,
-    title: 'My third Book',
-    description: 'The third book I ever wrote',
-  },
-  {
-    id: 'p5',
-    price: 4,
-    title: 'My fivth Book',
-    description: 'The fivth book I ever wrote',
+    title: 'Pineapple',
+    description: "As we are always intrigued by customers' needs and passions, and through our journey to deliver excellence and uniqueness",
   },
 ];
 
